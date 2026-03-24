@@ -1,7 +1,6 @@
 # GreenTech-MVP-Sostenible_Version_Haoxiang_Mei
 Informe sobre cómo hicimos nuestro software más verde
 1. ¿Qué encontramos al revisar el producto?
-
 Cuando estaba leyendo el Producto Mínimo Viable (MVP) decía que quería “salvar el planeta”, pero su tecnología no lo hacía. Usaba muchas librerías pesadas (como Bootstrap, jQuery, Moment.js y FontAwesome) y pedía imágenes muy grandes (3000px de ancho). Esto hacía que la página cargara lento, gastara muchos datos y exigiera demasiado al procesador de los teléfonos.
 3. ¿Qué cambios hicimos para que sea más sostenible?
 Reescribimos el código para alinearlo con la economía circular. Aquí están las medidas clave:
